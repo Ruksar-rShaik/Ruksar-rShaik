@@ -13,17 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sandeep5363" target="_blank">
+  <a href="www.linkedin.com/in/ruksar-shaik" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" height="30" width="100" />
   </a>
-  <a href="https://leetcode.com/sandeep_tripathi5363" target="_blank">
+  <a href="https://leetcode.com/Ruksar1shaik" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode" height="30" width="100" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/tripathiynou/practice" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks" height="30" width="140" />
-  </a>
-  <a href="https://www.getpostman.com/collections/abcdefg" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman" alt="Postman" height="30" width="100" />
   </a>
 </p>
 
