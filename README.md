@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/ruksar-shaik" target="_blank">
+  <a href="https://www.linkedin.com/in/ruksar-shaik/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" height="30" width="100" />
   </a>
   <a href="https://leetcode.com/Ruksar1shaik" target="_blank">
